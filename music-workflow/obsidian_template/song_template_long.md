@@ -1,6 +1,6 @@
 ---
 # ----------------- CORE METADATA -----------------
-master_asset_id: # Unique ID for this song (e.g., AURA-IC-0081)
+master_asset_id: # Unique ID for this song (e.g., SONG-ABC-123)
 alias: []
 tags: music/song
 album: 
@@ -10,10 +10,10 @@ release_date:
 
 # ----------------- STATUS & RIGHTS -----------------
 status: # Planning, In Progress, Mastered, Released, Archived
-record_label: Alpha Infinity Foundation
-publisher: Alpha Infinity Foundation
-distributor: DistroKid
-rights_holder: i C. Infinity
+record_label:
+publisher:
+distributor:
+rights_holder:
 creative_commons_license: 
 sync_status: # Available for Licensing, Exclusive, Non-Exclusive
 
